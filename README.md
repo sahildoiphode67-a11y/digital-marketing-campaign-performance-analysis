@@ -1,7 +1,7 @@
 
-Digital Marketing Campaign Performance Analysis
+**Digital Marketing Campaign Performance Analysis**
 
-Project Overview
+**Project Overview**
 
 This project analyzes the performance of digital marketing campaigns using Power BI. The dashboard provides insights into campaign effectiveness, channel performance, regional trends, and device-based user behavior.
 
@@ -17,7 +17,7 @@ The analysis focuses on key marketing metrics such as Revenue, Spend, Profit, RO
 
 ---
 
-Dataset Information
+**Dataset Information**
 
 The dataset contains marketing campaign performance data across multiple:
 

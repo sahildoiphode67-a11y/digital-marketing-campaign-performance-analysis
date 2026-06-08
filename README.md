@@ -140,11 +140,5 @@ Features:
 
 ---
 
-## Dashboard Preview
-
-Add dashboard screenshots here after uploading.
-
----
-
 
 Created by Sahil Doiphode
